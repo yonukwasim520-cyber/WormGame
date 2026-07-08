@@ -66,7 +66,7 @@ The goal of the project is to create a simple but interactive world where worms 
 - Pygame
 
 ## 📂 Project Structure
-WormGame/ │ ├── main.py │ └── README.md
+WormGame/ │ ├── WormGame.py │ └── README.md
 
 ## 🎯 Project Goal
 
