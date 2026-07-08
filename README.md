@@ -72,9 +72,7 @@ WormGame/ │ ├── WormGame.py │ └── README.md
 
 This project was created as an experiment in simulation programming, artificial behavior, and simple ecosystem design.
 
-The project focuses on creating independent creatures that can move, interact, fight, heal, and survive inside a virtual environment.
-
-## 🚀 Future Improvements
+The project focuses on creating independent creatures that can move, interact, fight, heal, and survive inside a virtual environment
 
 ## 📥 How to download
 
