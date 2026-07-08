@@ -76,6 +76,10 @@ The project focuses on creating independent creatures that can move, interact, f
 
 ## 🚀 Future Improvements
 
+## 📥 How to download
+
+Simply tap the file named `WormGame.py` and tap the three dots; you have two options. You can either copy the code and paste it into the Pydroid3 app, or—even easier—download the file, tap on `WormGame.py`, select Pydroid3 from the menu, hit the "Run" button, and enjoy
+
 Possible future updates:
 
 - More worm types.
