@@ -88,6 +88,10 @@ Possible future updates:
 - Graphics improvements.
 - Sound effects.
 
+## quick note
+
+It works well on phones because it was designed specifically for them
+
 ## 📜 License
 
 Free to use, modify, and learn from.
